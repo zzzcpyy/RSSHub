@@ -14,4 +14,3 @@ tmp
 *.swp
 *.iml
 coverage
-.env
